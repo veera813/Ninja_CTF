@@ -1,2 +1,2 @@
 # Ninja_CTF
-building a dockerized vulnerability web application 
+building a vulnarable application on top of the docker 
